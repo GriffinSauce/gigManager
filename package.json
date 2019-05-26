@@ -1,0 +1,25 @@
+{
+  "name": "gigManager",
+  "version": "1.0.0",
+  "description": "Lightweight solution to manage your band's gigs - Work in progress",
+  "author": "Joris Griffioen <joris.griffioen@live.nl>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "c": "./tools/new-component.sh"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "components": "^0.1.0",
+    "panic-overlay": "^1.0.34",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-jsx": "^3.2.1"
+  }
+}
