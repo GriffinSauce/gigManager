@@ -2,6 +2,11 @@
 
 _Lightweight solution to manage your band's gigs_
 
+---
+Archived, this project has been superceded by [noise.cat](https://github.com/GriffinSauce/noise.cat)
+
+---
+
 Tools for band gigs are often overengineered (entire CRM/tourplanning systems) or underengineered (crummy excel sheets), the idea with Gig Manager is to just keep it simple and get out of the way.
 
 So:
